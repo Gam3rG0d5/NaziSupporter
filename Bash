@@ -1,0 +1,4 @@
+mkdir leveling-bot
+cd leveling-bot
+npm init -y
+npm install discord.js
